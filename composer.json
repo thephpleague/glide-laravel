@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "league/glide-symfony": "^1.0"
+        "league/glide-symfony": "^2.0"
     },
     "require-dev": {
         "mockery/mockery": "^0.9",
